@@ -143,8 +143,8 @@ public class LoginActivity extends AppCompatActivity {
 
         refreshedToken = "1222";
 
-        android_id= "9520b5eab9efb68e";
-//        android_id = getAndroidID(LoginActivity.this);
+        android_id= "7c1af6037f2b729c";
+ //       android_id = getAndroidID(LoginActivity.this);
 //        if (android_id.equals("0")) {
 //            TelephonyManager telephonyManager = (TelephonyManager) getSystemService(Context.TELEPHONY_SERVICE);
 //            if (ActivityCompat.checkSelfPermission(this, Manifest.permission.READ_PHONE_STATE) != PackageManager.PERMISSION_GRANTED) {
